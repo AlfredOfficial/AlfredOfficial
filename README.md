@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfredofficial" alt="alfredofficial" /></a> </p>
 
-- 🔭 I’m currently working on **Information Systems student passionate about software development and system analysis**
-
 - 🌱 I’m currently learning **Currently learning Django, Vue.js, and SQL**
 
 - 📫 How to reach me **orapaalfred7@gmail.com**
